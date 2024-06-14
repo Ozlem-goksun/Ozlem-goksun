@@ -1,6 +1,6 @@
 ![MasterHead](https://images.hdqwalls.com/download/pacman-256-b2-1920x1080.jpg)
 <h1 align="center">Hey there I'm OZLEM</h1>
-<h3 align="center">A noob but eager game developer from Turkey.</h3>
+<h3 align="center">A noob but eager student trying to produce games from Turkey.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ozlem-goksun&label=Profile%20views&color=0e75b6&style=flat" alt="ozlem-goksun" /> </p>
 
