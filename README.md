@@ -7,7 +7,11 @@
 - 🌱 I’m currently learning **game developing on Unity Engine with C# language**
 
 - 📫 How to reach me **ozlemgoksun1389@gmail.com**
+###
 
+<img src="https://raw.githubusercontent.com/metindeder/metindeder/output/snake.svg" alt="Snake animation" />
+
+###
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ozlem-goksun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozlem-goksun" height="30" width="40" /></a>
@@ -23,4 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozlem-goksun&show_icons=true&locale=en" alt="ozlem-goksun" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozlem-goksun&" alt="ozlem-goksun" /></p>
+
 
