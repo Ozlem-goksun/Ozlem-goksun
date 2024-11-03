@@ -7,9 +7,6 @@
 - 🌱 I’m currently learning **game developing on Unity Engine with C# language**
 
 - 📫 How to reach me **ozlemgoksun1389@gmail.com**
-###
-
-<img src="https://raw.githubusercontent.com/metindeder/metindeder/output/snake.svg" alt="Snake animation" />
 
 ###
 <h3 align="left">Connect with me:</h3>
